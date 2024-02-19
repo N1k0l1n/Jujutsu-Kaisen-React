@@ -164,7 +164,6 @@ const CoverVideo = () => {
             data-scroll
             data-scroll-speed="4"
             data-scroll-delay="0.04"
-            
           >
             n
           </motion.h1>
@@ -175,10 +174,10 @@ const CoverVideo = () => {
           data-scroll-speed="2"
           data-scroll-delay="0.04"
         >
-          I'll Show You What Real Jujutsu Is
+          Shine with Elegance
         </motion.h2>
       </Title>
-      <Video src={MainVideo} type="video/mp4" autoPlay loop />
+      <Video src={MainVideo} type="video/mp4" autoPlay  loop />
     </VideoContainer>
   );
 };
