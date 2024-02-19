@@ -174,7 +174,7 @@ const CoverVideo = () => {
           data-scroll-speed="2"
           data-scroll-delay="0.04"
         >
-          Shine with Elegance
+          I'll Show You What Real Jujutsu Is
         </motion.h2>
       </Title>
       <Video src={MainVideo} type="video/mp4" autoPlay muted loop />
