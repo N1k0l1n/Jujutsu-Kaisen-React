@@ -1,4 +1,3 @@
-[React App.webm](https://github.com/N1k0l1n/fashion-website/assets/97979235/35d0ce7e-2edd-48cb-adfe-e630902dc2bf)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
