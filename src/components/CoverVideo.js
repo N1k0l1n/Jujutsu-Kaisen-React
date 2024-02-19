@@ -177,7 +177,7 @@ const CoverVideo = () => {
           Shine with Elegance
         </motion.h2>
       </Title>
-      <Video src={MainVideo} type="video/mp4" autoPlay  loop />
+      <Video src={MainVideo} type="video/mp4" autoPlay muted loop />
     </VideoContainer>
   );
 };
