@@ -149,6 +149,7 @@ const Footer = () => {
             data-scroll-direction="horizontal"
           >
             &copy; {new Date().getFullYear()} JJK All Rights Reserved.
+            <a href="https://twitter.com/jujutsuAkutami?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Gege Akutami</a>
           </span>
         </Bottom>
       </FooterComponent>
@@ -157,3 +158,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
