@@ -178,7 +178,7 @@ const CoverVideo = () => {
           I'll Show You What Real Jujutsu Is
         </motion.h2>
       </Title>
-      <Video src={MainVideo} type="video/mp4" autoPlay muted loop />
+      <Video src={MainVideo} type="video/mp4" autoPlay loop />
     </VideoContainer>
   );
 };
